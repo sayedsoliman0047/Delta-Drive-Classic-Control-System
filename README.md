@@ -48,7 +48,7 @@ A video demonstration is included showing:
 * Forward/Reverse operation
 * Stop behavior
 * External fault triggering
-[Watch The Video](video.mp4)
+* [Watch The Video](video.mp4)
 ---
 
 
